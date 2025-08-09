@@ -42,5 +42,4 @@ Essas bibliotecas são fundamentais para:
 
 ---
 
-Se quiser, posso montar esse resumo em formato de **slide, card, ou imagem para LinkedIn/estudo**. Deseja isso?
 
